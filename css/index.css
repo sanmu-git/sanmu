@@ -1,0 +1,9 @@
+.head {
+    border: solid 1px red;
+}
+
+p {
+    font-size: 12px;
+    font-weight: 400;
+    color: black;
+}
